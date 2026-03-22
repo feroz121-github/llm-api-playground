@@ -1,3 +1,7 @@
 google-genai
 jupyter
 ipykernel
+openai 
+langchain
+langchain-openai
+gradio
